@@ -1,0 +1,4 @@
+pandas==1.5.3
+jupysql==0.5.2
+duckdb==0.6.1
+duckdb-engine==0.6.8
